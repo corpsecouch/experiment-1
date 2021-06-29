@@ -1,4 +1,4 @@
-# experiment-1
+# exploration-1
 
 ## Project setup
 ```
